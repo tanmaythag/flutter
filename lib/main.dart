@@ -56,7 +56,7 @@ class MyApp extends StatelessWidget{
                         color: Colors.teal,
                       ),
                       title: Text(
-                        '+918956063010',
+                        '+9189------',
                         style: TextStyle(
                           color: Colors.teal.shade900,
                           fontSize: 20.0,
@@ -72,7 +72,7 @@ class MyApp extends StatelessWidget{
                       color: Colors.teal,
                     ),
                     title: Text(
-                      'tanmaypthag@gmail.com',
+                      'sampleabc@gmail.com',
                       style: TextStyle(
                         color: Colors.teal.shade900,
                         fontSize: 20.0,
@@ -88,7 +88,7 @@ class MyApp extends StatelessWidget{
                         color: Colors.teal,
                       ),
                       title: Text(
-                        'https://linkedin.com/in/tanmay-thag-299927171',
+                        'https://linkedin.com/in/',
                         style: TextStyle(
                           color: Colors.teal.shade900,
                           fontSize: 20.0,
